@@ -3372,7 +3372,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_Harwin:Harwin_Gecko-G125-FVX1205L0X_2x06_P1.25mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x06_P2.54mm_Vertical"
 			(at 134.62 95.25 0)
 			(effects
 				(font
